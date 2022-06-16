@@ -1,2 +1,2 @@
 # SystemAnalyzer
-control_process is the main file
+Start with Control_Processes.fig
